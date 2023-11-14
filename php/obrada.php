@@ -5,3 +5,4 @@
     echo "<div>Poruka: ".$poruka."</div>";
 ?>
 <!-- obrada.php?email=pero@veleri.hr&poruka=Hej!-->
+
